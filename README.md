@@ -1,2 +1,2 @@
 # snek_stonks
-Personal stock data mining for actionable market playtime. 
+Personal stock data analysis to get rich.   
